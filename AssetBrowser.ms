@@ -1,5 +1,5 @@
 
-_AssetItems = getdirectories @"D:\FXTD_Mentorship\devFXTDT\FXAssetBrowser\Library\*"
+_AssetItems = getdirectories @"H:\projects\emptyspace\FXmodsAssetBrowser\Library\*"
 _AssetItemsUI = #()
 
 for i=1 to _AssetItems.count do
