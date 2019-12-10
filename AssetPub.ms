@@ -1,19 +1,3 @@
-/*
-
-	publish file to :	D:\FXTD_Mentorship\devFXTDT\FXAssetBrowser\Library
-	and name based on input name
-	make directory based on input name
-	
-	generate marker file
-
-*/
-
--- Define Lib Path and naming
-
-LibPath = @"D:\FXTD_Mentorship\devFXTDT\FXAssetBrowser\Library\"
--- LibPubName = "RainMaker"
-
-
 rollout _AssetPub "Asset Publisher"
 (
 	edittext _AssetName "Asset Name:" text:"AssetName"
