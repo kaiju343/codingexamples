@@ -116,11 +116,6 @@ public class TwitterImgShare : MonoBehaviour {
 
 		StartCoroutine (shouldSize ());
 
-
-
-
 	}
-
-
 
 }
